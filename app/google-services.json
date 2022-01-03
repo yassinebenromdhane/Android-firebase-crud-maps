@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428461609635",
+    "project_id": "event-management-a9deb",
+    "storage_bucket": "event-management-a9deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428461609635:android:29344deeb2976270476516",
+        "android_client_info": {
+          "package_name": "com.example.miniprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428461609635-6scackkeifuhcpta8fu2980qu1kmpfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlDgFBre2HZuUZH0hgpGfSGga13U5h4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428461609635-6scackkeifuhcpta8fu2980qu1kmpfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

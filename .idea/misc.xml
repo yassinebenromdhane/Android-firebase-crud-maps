@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/btn_bg.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.2203125" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.12129629629629629" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_email.xml" value="0.2" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_facebook.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_google.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_person.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/ic_security.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/drawable/input_bg.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_add_event.xml" value="0.18" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_edit_event.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/activity_register.xml" value="0.5" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Android and flutter/miniProjet Android/mini-projet/app/src/main/res/menu/menu1.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
